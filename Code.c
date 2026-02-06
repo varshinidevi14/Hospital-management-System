@@ -5,7 +5,7 @@
 #define GREEN "\033[0;32m" 
 #define RESET "\033[0m" 
 typedef struct { 
-char name[50]; 
+char name[50];
 int age; 
 char gender[10]; 
 char disease[50]; 
